@@ -32,9 +32,8 @@ Prilikom uzimanja slike zaslona voditi računa da su sve slike približno jednak
 raspon situacija (npr. pravilan/nepravilan raspored objekata, većina/manjina slike sadrži objekte, prisutnost ostalih, 
 neželjenih objekata na slici i sl.). Ispod su dani neki primjeri.
 
-![Screenshot](Primjer01.png)
-![Screenshot](Primjer02.png)
-![Screenshot](Primjer03.png)
+![Screenshot](Primjer.png)
+
 
 
 ## Obrada u MATLAB-u
@@ -58,13 +57,13 @@ prebaciti na staru verziju koja je bila ispravna/zadovoljajuća.
 Poželjno je sav rad koji uspješno/donekle uspješno implementira neki od zadanih zadataka 'pushati' na
 GitHub u za to predviđeni repozitorij (za svakog člana tima sam napravio repozitorij s inicijalima njegovog
 imena). Također, ukoliko vam je za potrebe izvedbe vašeg zadatka potreban dio koji je implementirao drugi član tima,
-jednostavno možete preuzeti taj dio koda iz njegovog repozitorija. Preporučam da imate kopiju cijelog/clone cijelog repozitorija na računalu.
+jednostavno možete preuzeti taj dio koda iz njegovog repozitorija. Preporučam da imate kopiju/clone cijelog repozitorija na računalu.
 
 Za rad s GitHub-om, osim računa na njemu, potrebna je i instalacija Git-a, kojeg možete preuzeti ovdje:
 * https://git-scm.com/downloads
 
 Izbjegavajte GUI verziju Git-a, command line pristup osigurava veću fleksibilnost u radu. Nakon instalacije
-Git-a u radnom direktoriju možete Git Bash desnim klikom miša te odabirom opcije 'Git Bash Here'.
+Git-a, u radnom direktoriju možete otvoriti Git Bash desnim klikom miša te odabirom opcije 'Git Bash Here'.
 
 Korisne poveznice vezane uz rad s Git-om:
 * https://www.youtube.com/watch?v=HVsySz-h9r4
