@@ -29,10 +29,13 @@ segmentacije provesti brojanje objekata kružnom Hughovom transformacijom.
 
 ## Podjela poslova po članovima tima
 
-* Dino Cindrić – Otklanjanje šuma i nepravilnosti na slici, Pretvorba u crno-bijeli format i izoštravanje -[]
-* Marko Čavužić – Segmentacija slike -[]
-* Josip Preglej – Pretvorba u crno-bijeli format i izoštravanje, Pisanje izvještaja, Izrada prezentacije -[]
-* Ivan Sinković – Brojanje objekata -[]
+| Član tima     | Zadatak |
+| ------------- |:-------------:|
+| Marko Čavužić      | Segmentacija slike     |
+| Ivan Sinković     | Brojanje objekata    |
+| Josip Preglej      | Pretvorba u crno-bijeli format i izoštravanje, Pisanje izvještaja, Izrada prezentacije     |
+| Dino Cindrić     | Otklanjanje šuma i nepravilnosti na slici, Pretvorba u crno-bijeli format i izoštravanje     |
+
 
 ## Ishod projekta
 
