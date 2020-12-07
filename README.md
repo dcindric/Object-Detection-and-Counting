@@ -29,10 +29,10 @@ segmentacije provesti brojanje objekata kružnom Hughovom transformacijom.
 
 ## Podjela poslova po članovima tima
 
-*Dino Cindrić – Otklanjanje šuma i nepravilnosti na slici, Pretvorba u crno-bijeli format i izoštravanje
-*Marko Čavužić – Segmentacija slike
-*Josip Preglej – Pretvorba u crno-bijeli format i izoštravanje, Pisanje izvještaja, Izrada prezentacije
-*Ivan Sinković – Brojanje objekata
+* Dino Cindrić – Otklanjanje šuma i nepravilnosti na slici, Pretvorba u crno-bijeli format i izoštravanje -[]
+* Marko Čavužić – Segmentacija slike -[]
+* Josip Preglej – Pretvorba u crno-bijeli format i izoštravanje, Pisanje izvještaja, Izrada prezentacije -[]
+* Ivan Sinković – Brojanje objekata -[]
 
 ## Ishod projekta
 
@@ -42,4 +42,4 @@ objekata iz satelitskih snimaka
 
 ## Reference
 
-*A. Khan, U. Khan, M. Waleed, A. Khan, T. Kamal, S.N. Khan Marwat, M. Maqsood, F. Aadil: "Remote Sensing: An Automated Methodology for Olive Tree Detection and Counting in Satellite Images", 2018. IEEE Access, https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8558485 
+* [1] A. Khan, U. Khan, M. Waleed, A. Khan, T. Kamal, S.N. Khan Marwat, M. Maqsood, F. Aadil: "Remote Sensing: An Automated Methodology for Olive Tree Detection and Counting in Satellite Images", 2018. IEEE Access, https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8558485 
