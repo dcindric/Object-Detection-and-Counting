@@ -1,0 +1,19 @@
+%Automated image loading and processing
+
+%Change with your own folder path where images are stored
+imageFolder = 'C:\Users\Dino\Desktop\SPUS-Projekat';
+
+
+%Check if image folder is valid 
+if (isfolder(imageFolder) == 0)
+    %Dislay error message to user
+    errMsg = sprintf("Specified folder: \n\n%s \n\ndoes not exist, please check entered folder path", imageFolder);
+    
+    %Abort program execution, wait for user to resume
+    uiwait(warndlg(errMsg));
+    return;
+end
+
+
+%Number of images to be processed, enter 
+imageNumber = 10;

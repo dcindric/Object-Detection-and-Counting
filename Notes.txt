@@ -1,0 +1,2 @@
+Intensity level slicing
+Histogram Equalization Implementation 
